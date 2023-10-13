@@ -7,3 +7,6 @@ result = num1 + num2
 
 # 결과 출력
 print("두 숫자의 합은:", result)
+
+print("수정을 통해 추가한 코드입니다")
+
